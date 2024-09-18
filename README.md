@@ -50,8 +50,3 @@ The project relies on publicly available data, processed through Python scripts 
 3. **Interactive Public Engagement**:
    - QGIS models allow the public to explore tree density’s environmental impact in their neighborhoods.
 
-## How to Use This Repository
-
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/your-username/urban-tree-analysis.git
